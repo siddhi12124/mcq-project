@@ -1,16 +1,16 @@
 body {
-    background-color: #002c5c; /* Dark blue background */
-    color: #ffffff; /* White text */
+    background-color: #002c5c; 
+    color: #ffffff; 
     font-family: 'Arial', sans-serif;
 }
 
 .container {
     max-width: 400px;
     margin: 100px auto;
-    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black container */
+    background-color: rgba(0, 0, 0, 0.7); 
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2); /* White box shadow */
+    box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2); 
 }
 
 h2, p {
@@ -22,17 +22,17 @@ h2, p {
 }
 
 .form-control {
-    background-color: #0a1732; /* Dark blue input background */
-    color: #ffffff; /* White text in inputs */
-    border-color: #0a1732; /* Dark blue border */
+    background-color: #0a1732; 
+    color: #ffffff; 
+    border-color: #0a1732; 
 }
 
 .btn-primary {
-    background-color: #ff5e00; /* Orange button */
-    border-color: #ff5e00; /* Orange border */
+    background-color: #ff5e00; 
+    border-color: #ff5e00; 
 }
 
 .btn-primary:hover {
-    background-color: #ff7f00; /* Darker orange on hover */
+    background-color: #ff7f00; 
     border-color: #ff7f00;
 }
